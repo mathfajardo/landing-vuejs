@@ -22,7 +22,7 @@ clip-path: ellipse(150% 87% at 93% 13%);
 
             <Button label="Vamos começar?" as="a"
                 href="https://wa.me/5511917850709?text=Olá! Tenho interesse e queria mais informações, por favor."
-                target="_blank" rounded class="bg-emerald-500 text-xl! mt-8 px-4!" />
+                target="_blank" rounded class="bg-emerald-500 text-xl! mt-8 px-4! mb-5" />
         </div>
 
         <div class="flex justify-center md:justify-end">

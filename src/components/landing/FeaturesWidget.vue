@@ -52,14 +52,8 @@
             </div>
 
             <div class="col-span-12 md:col-span-12 lg:col-span-4 p-0 lg:pr-8 lg:pb-8 mt-6 lg:mt-0">
-                <div style="height: 160px; padding: 2px; border-radius: 10px; background:
-    linear-gradient(0deg, rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0.25)),
-    radial-gradient(
-        77.36% 256.97% at 77.36% 57.52%,
-        rgb(224, 242, 254) 0%,   /* azul bem claro */
-        rgb(186, 230, 253) 50%,  /* azul suave */
-        rgb(125, 211, 252) 100%  /* azul claro */
-    );">
+                <div
+                    style="height: 160px; padding: 2px; border-radius: 10px; background: linear-gradient(90deg, rgba(145, 226, 237, 0.2), rgba(251, 199, 145, 0.2)), linear-gradient(180deg, rgba(253, 228, 165, 0.2), rgba(172, 180, 223, 0.2))">
                     <div class="p-4 bg-surface-0 dark:bg-surface-900 h-full" style="border-radius: 8px">
                         <div class="flex items-center justify-center bg-slate-200 mb-4"
                             style="width: 3.5rem; height: 3.5rem; border-radius: 10px">
