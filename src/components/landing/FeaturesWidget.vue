@@ -30,7 +30,7 @@
                             <i class="pi pi-fw pi-palette text-2xl! text-cyan-700"></i>
                         </div>
                         <h5 class="mb-2 text-surface-900 dark:text-surface-0">Design Moderno</h5>
-                        <span class="text-surface-600 dark:text-surface-200">Semper risus in hendrerit.</span>
+                        <span class="text-surface-600 dark:text-surface-200">Responsivo, intuitivo e simples de utilizar.</span>
                     </div>
                 </div>
             </div>
